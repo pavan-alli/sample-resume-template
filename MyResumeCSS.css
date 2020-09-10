@@ -1,0 +1,70 @@
+
+body {
+  background-color: #1B1B25;
+  font-family: 'Farsan';
+  color:  white;
+
+  line-height: 25px;
+}
+h1 {
+  text-align: center;
+  color: white;
+  text-shadow: 2px 2px 5px lightblue;
+  font-size: 100px;
+  line-height: 130px;
+  border-bottom: solid;
+
+
+}
+
+h2{
+  font-size: 25px;
+
+  border: solid;
+  border-color: white;
+  color: white;
+  padding-left: 20px
+}
+
+h3{
+  font-size: 25px;
+}
+
+h4{
+  font-size: 20px;
+}
+
+table {
+  align-self: center;
+  align-items: center;
+  width: 100%;
+  border: solid;
+  border-color: black;
+
+
+}
+
+th {
+  background-color: #3fa500;
+  color: #161b40;
+  font-size: 22px;
+}
+tr{
+  font-size: 20px;
+  border: solid;
+}
+ol{
+  font-size: 25px;
+}
+li{
+  font-size: 20px;
+
+}
+p{
+
+  text-align: justify;
+  font-size: 20px;
+  letter-spacing: 1px;
+  word-spacing: 2px;
+
+}
